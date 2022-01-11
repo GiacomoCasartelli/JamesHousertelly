@@ -1,3 +1,3 @@
-- Hi, my name is Giacomo Casartelli, I’m @JamesHousertelly on github.
+- Hi, my name is Giacomo Casartelli.
 - I'm currently studying Mathematics at the University of Insubria in Como, Italy.
 - You can write me at giacomocasartelli@outlook.it
