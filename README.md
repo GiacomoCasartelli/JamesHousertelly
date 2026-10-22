@@ -1,3 +1,3 @@
 - Hi, my name is Giacomo Casartelli.
-- I'm currently studying Mathematics at the University of Insubria in Como, Italy.
+- I'm currently pursuing a PhD in Mathematics at University of Insubria in Como, Italy.
 - You can write me at gcasartelli@uninsubria.it
